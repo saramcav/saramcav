@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saramcav&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saramcav&layout=compact&theme=tokyonight&langs_count=5&locale=pt-br" />
 </p>
 
 <p align="center">
